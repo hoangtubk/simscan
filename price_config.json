@@ -1,0 +1,83 @@
+[
+  {
+    "key": "DM",
+    "value": {
+      "name": "Kiểm tra domain",
+      "price": 100000,
+      "unit": "VND",
+      "role": "CheckDomainDie"
+    }
+  },
+  {
+    "key": "EM",
+    "value": {
+      "name": "Kiểm tra đăng nhập mail",
+      "price": 100000,
+      "unit": "VND",
+      "role": "CheckMailLogin"
+    }
+  },
+  {
+    "key": "LK",
+    "value": {
+      "name": "Kiểm tra liên kết Facebook",
+      "price": 100000,
+      "unit": "VND",
+      "role": "CheckLKFacebook"
+    }
+  },
+  {
+    "key": "CF",
+    "value": {
+      "name": "Kiểm tra cookie Facebook",
+      "price": 100000,
+      "unit": "VND",
+      "role": "ValidateFBCookie"
+    }
+  },
+  {
+    "key": "LF",
+    "value": {
+      "name": "Kiểm tra đăng nhập Facebook",
+      "price": 100000,
+      "unit": "VND",
+      "role": "CheckFBLogin"
+    }
+  },
+  {
+    "key": "FD",
+    "value": {
+      "name": "Lọc mail domain",
+      "price": 100000,
+      "unit": "VND",
+      "role": "MailDomainFilter"
+    }
+  },
+  {
+    "key": "CB",
+    "value": {
+      "name": "Đổi mật khẩu Etsy",
+      "price": 100000,
+      "unit": "VND",
+      "role": "ChangeEtsyPassword"
+    }
+  },
+  {
+    "key": "CS",
+    "value": {
+      "name": "Đổi mật khẩu facebook",
+      "price": 100000,
+      "unit": "VND",
+      "role": "ChangeFBPassword"
+    }
+  },
+  {
+    "key": "CE",
+    "value": {
+      "name": "Kiểm tra liên kết Etsy",
+      "price": 100000,
+      "unit": "VND",
+      "role": "CheckLKEtsy"
+    }
+  }
+]

@@ -2,7 +2,7 @@
   {
     "key": "DM",
     "value": {
-      "name": "Kiểm tra domain",
+      "name": "Kiểm tra domain die/live",
       "price": 100000,
       "unit": "VND",
       "role": "CheckDomainDie"
@@ -12,7 +12,7 @@
     "key": "EM",
     "value": {
       "name": "Kiểm tra đăng nhập mail",
-      "price": 100000,
+      "price": 250000,
       "unit": "VND",
       "role": "CheckMailLogin"
     }
@@ -21,7 +21,7 @@
     "key": "LK",
     "value": {
       "name": "Kiểm tra liên kết Facebook",
-      "price": 100000,
+      "price": 5000,
       "unit": "VND",
       "role": "CheckLKFacebook"
     }
@@ -30,7 +30,7 @@
     "key": "CF",
     "value": {
       "name": "Kiểm tra cookie Facebook",
-      "price": 100000,
+      "price": 500000,
       "unit": "VND",
       "role": "ValidateFBCookie"
     }
@@ -39,7 +39,7 @@
     "key": "LF",
     "value": {
       "name": "Kiểm tra đăng nhập Facebook",
-      "price": 100000,
+      "price": 500000,
       "unit": "VND",
       "role": "CheckFBLogin"
     }
@@ -57,7 +57,7 @@
     "key": "CB",
     "value": {
       "name": "Đổi mật khẩu Etsy",
-      "price": 100000,
+      "price": 250000,
       "unit": "VND",
       "role": "ChangeEtsyPassword"
     }
@@ -66,7 +66,7 @@
     "key": "CS",
     "value": {
       "name": "Đổi mật khẩu facebook",
-      "price": 100000,
+      "price": 250000,
       "unit": "VND",
       "role": "ChangeFBPassword"
     }
@@ -75,7 +75,7 @@
     "key": "CE",
     "value": {
       "name": "Kiểm tra liên kết Etsy",
-      "price": 100000,
+      "price": 5000,
       "unit": "VND",
       "role": "CheckLKEtsy"
     }
